@@ -1,0 +1,40 @@
+#heading {
+    background: linear-gradient(to right, #f3a9c586,#f8bd9593, #fd9dfd8f, #f8ee9893);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.img {
+    height: 80px;
+    position: absolute;
+    opacity: 0.2;
+}
+
+#b2img {
+    height: 100px;
+    margin-left: 2%;
+    margin-top: 2%;
+    transform: rotate(10deg);
+}
+
+#b3img {
+    margin-left: -20%;
+    margin-top: 25%;
+    transform: rotate(340deg);
+}
+
+#b4img {
+    margin-left: 35%;
+    margin-top: -2%;
+    transform: rotate(30deg);
+}
+
+#date {
+    letter-spacing: 0.3px;
+    font-size: 18px;
+}
+
+.lead {
+    letter-spacing: 0.2px;
+    font-weight: 300;
+}
